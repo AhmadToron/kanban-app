@@ -7,6 +7,13 @@ En enkel Kanban-tavla där man kan skapa uppgifter, flytta dem mellan kolumnerna
 - **Backend:** Node.js + Express
 - **Tester:** Jest + React Testing Library
 
+## Live
+
+- **Appen (Vercel):** https://kanban-app-drab-gamma.vercel.app
+- **API (Render):** https://kanban-app-f8om.onrender.com/api/tasks
+
+> Backend körs på Render:s gratisnivå och somnar efter en stund utan trafik, så första laddningen kan ta upp till en minut.
+
 ## Mappstruktur
 
 ```
