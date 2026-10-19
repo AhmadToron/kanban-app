@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "title": "Planera projektet",
+    "description": "Skissa wireframes och komponentträd",
+    "status": "done",
+    "createdAt": "2026-10-01T09:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "title": "Bygga backend",
+    "description": "Express-server med REST-endpoints",
+    "status": "in-progress",
+    "createdAt": "2026-10-05T10:30:00.000Z"
+  },
+  {
+    "id": "3",
+    "title": "Driftsätta appen",
+    "description": "Publicera frontend på Vercel",
+    "status": "todo",
+    "createdAt": "2026-10-10T14:15:00.000Z"
+  },
+  {
+    "id": "03fe7a5f-a95b-4e22-9f08-ee2edc4444b2",
+    "title": "Test",
+    "description": "",
+    "status": "done",
+    "createdAt": "2026-10-15T12:02:28.686Z"
+  }
+]
